@@ -18,7 +18,7 @@ Built with Power BI Desktop — data cleaning, DAX measures, slicers and map vis
 ## 🧭 Key Visuals Used
 - Bar chart — Channel count by country  
 - Line + Bar combo — Country-wise earnings  
-- Pie & Donut — Category distribution, Year-wise uploads  
+- Pie & Donut — Category distribution, Year-wise uploads   
 - Interactive Map — Country ranking  
 - Slicers — Country & Year for dynamic filtering
 
