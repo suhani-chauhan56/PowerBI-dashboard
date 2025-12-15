@@ -3,7 +3,7 @@
 ![PowerBI Badge](https://img.shields.io/badge/Power--BI-Report-blue) ![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange) ![Status](https://img.shields.io/badge/Status-Prototype-green)
 
 *A clean, interactive Power BI dashboard showcasing global YouTube channel metrics (2023).*  
-Built with Power BI Desktop — data cleaning, DAX measures, slicers and map visuals for quick insights.
+Built with Power BI Desktop — data cleaning, DAX measures, slicers and map visuals for quick insights. 
 
 ---
 
